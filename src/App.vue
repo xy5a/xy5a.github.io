@@ -1,5 +1,5 @@
 <script setup>
-import { ElButton, ElRow, ElTable, ElMessageBox } from "element-plus";
+import { ElButton, ElRow, ElMessageBox } from "element-plus";
 import { ref } from "vue";
 
 const i = ref(0);
